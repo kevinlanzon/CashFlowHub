@@ -1,0 +1,20 @@
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# Docker
+pgdata/
+
+# React
+node_modules/
+dist/
+build/
